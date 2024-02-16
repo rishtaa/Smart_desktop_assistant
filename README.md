@@ -1,5 +1,5 @@
 # SmartDesktopAssistant
-A Smart Desktop Assistant is a virtual assistant designed to help you organize and streamline your work processes. It can automate various tasks, manage files and folders, keep track of appointments and deadlines, and provide quick access to information. With features like speech recognition, natural language processing, and advanced algorithms, it can understand your commands and carry out your requests quickly and efficiently.
+A Smart Desktop Assistant is like a helpful virtual friend on your computer. It can do things for you, like organizing files, reminding you of important dates, and quickly finding information. With features like understanding your voice and using smart algorithms, it makes tasks easier and faster.
 
 (run those in command prompt/cmt/terminal) For the robot to listen to our voice/speech pip install speechRecognition
 To speak out, or text to speech pip install pyttsx3
